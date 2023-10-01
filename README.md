@@ -1,6 +1,6 @@
 # static-podcast-web-page
 A static web page using HTML , CSS and Bootstrap.
-The Home page show some podcasts. 
+The Home page shows some podcasts. 
 By clicking on the image it takes to the list of podcasts related to it in the same web page (or tab).
 A "Back" button is available at the right side of the page, on clicking the button it takes to home page.
 *******************
